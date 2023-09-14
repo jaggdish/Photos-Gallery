@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="nothing_found">Nothing found</string>
+    <string name="no_internet_connection">Please check your internet connection!</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="photo_number">Photo 1</string>
+    <string name="author_name">Author Name</string>
+    <string name="night_mode">Change Day Night Mode</string>
+    <string name="zoom_in_out">Press Double Tap to Zoom!</string>
+
+</resources>
